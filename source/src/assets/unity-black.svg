@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="unity-black.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\anjhe\Desktop\unity-white.png"
+   inkscape:export-xdpi="94.803902"
+   inkscape:export-ydpi="94.803902">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1001"
+     id="namedview46"
+     showgrid="false"
+     inkscape:zoom="16.58"
+     inkscape:cx="25"
+     inkscape:cy="25"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <path
+     style="fill:#000000;fill-rule:nonzero;stroke-width:0.50202483"
+     d="M 44.521287,-1.5e-6 24.124975,5.2903925 21.085933,10.487679 14.963704,10.441616 0,24.976967 l 14.963704,14.535351 6.122229,-0.04606 3.039042,5.197285 20.396312,5.336458 L 50,30.174253 46.914852,25.02303 50,19.870825 Z m -7.320973,7.405374 -8.97783,15.0871285 h -17.95566 l 11.32627,-11.176667 z m 4.374142,2.483486 4.328036,15.0881085 -4.328036,15.087127 -8.97783,-15.087127 z M 10.312929,27.414389 h 17.95566 l 8.97783,15.087128 -15.653325,-3.909481 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="C:\Users\anjhe\Desktop\unity-black.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>
