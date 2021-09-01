@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.bc3b2eff.chunk.js",
-    "main.js.map": "/static/js/main.bc3b2eff.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.98fd4995.js",
-    "runtime-main.js.map": "/static/js/runtime-main.98fd4995.js.map",
-    "static/js/2.48f8f938.chunk.js": "/static/js/2.48f8f938.chunk.js",
-    "static/js/2.48f8f938.chunk.js.map": "/static/js/2.48f8f938.chunk.js.map",
-    "static/js/3.26342fe4.chunk.js": "/static/js/3.26342fe4.chunk.js",
-    "static/js/3.26342fe4.chunk.js.map": "/static/js/3.26342fe4.chunk.js.map",
+    "main.js": "/static/js/main.f126c490.chunk.js",
+    "main.js.map": "/static/js/main.f126c490.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27b37a3c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27b37a3c.js.map",
+    "static/js/2.229aae5b.chunk.js": "/static/js/2.229aae5b.chunk.js",
+    "static/js/2.229aae5b.chunk.js.map": "/static/js/2.229aae5b.chunk.js.map",
+    "static/js/3.46afe175.chunk.js": "/static/js/3.46afe175.chunk.js",
+    "static/js/3.46afe175.chunk.js.map": "/static/js/3.46afe175.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.48f8f938.chunk.js.LICENSE.txt": "/static/js/2.48f8f938.chunk.js.LICENSE.txt",
+    "static/js/2.229aae5b.chunk.js.LICENSE.txt": "/static/js/2.229aae5b.chunk.js.LICENSE.txt",
     "static/media/amazonwebservices-original.aa0c4194.svg": "/static/media/amazonwebservices-original.aa0c4194.svg",
     "static/media/android-original.e31d0532.svg": "/static/media/android-original.e31d0532.svg",
     "static/media/csharp-original.4b8080ff.svg": "/static/media/csharp-original.4b8080ff.svg",
@@ -23,6 +23,7 @@
     "static/media/inkscape-icon-white.372e07c6.svg": "/static/media/inkscape-icon-white.372e07c6.svg",
     "static/media/inkscape-icon.bbdce32c.svg": "/static/media/inkscape-icon.bbdce32c.svg",
     "static/media/javascript-original.4c1b5332.svg": "/static/media/javascript-original.4c1b5332.svg",
+    "static/media/linkedin.43e79928.svg": "/static/media/linkedin.43e79928.svg",
     "static/media/postgresql-original.7bc394e8.svg": "/static/media/postgresql-original.7bc394e8.svg",
     "static/media/profile.c9febee7.png": "/static/media/profile.c9febee7.png",
     "static/media/python-original.849d0b2b.svg": "/static/media/python-original.849d0b2b.svg",
@@ -33,8 +34,8 @@
     "static/media/unity-white.52ca1635.svg": "/static/media/unity-white.52ca1635.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98fd4995.js",
-    "static/js/2.48f8f938.chunk.js",
-    "static/js/main.bc3b2eff.chunk.js"
+    "static/js/runtime-main.27b37a3c.js",
+    "static/js/2.229aae5b.chunk.js",
+    "static/js/main.f126c490.chunk.js"
   ]
 }
